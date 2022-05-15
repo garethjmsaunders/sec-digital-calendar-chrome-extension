@@ -1,5 +1,4 @@
-# sec-digital-calendar-chrome-extension
-SEC Digital Calendar Google Chrome extension
+# SEC Digital Calendar Google Chrome extension
 
 View the [Scottish Episcopal Church digital calendar and lectionary](https://www.seccalendar.org.uk/) in a popup window on your web browser's toolbar.
 
