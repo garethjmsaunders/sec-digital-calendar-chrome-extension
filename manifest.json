@@ -1,6 +1,7 @@
 {
     "name": "SEC Digital Calendar and Lectionary",
     "version": "1.0.0",
+    "manifest_version": 3,
     "action": {
         "default_icon": {
             "16": "icons/16.png",
