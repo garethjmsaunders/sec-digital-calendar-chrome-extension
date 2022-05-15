@@ -9,3 +9,7 @@ Save time with this handy browser extension to quickly view today's feast in a p
 The button opens the full website in mobile-view in a small window, so you can access everything on this site within the toolbar popup.
 
 Want to move everything to a full tab? Right-click a link and select 'Open link in new tab'.
+
+## Pending Review at the Chrome Web Store
+
+**This extension has been submitted to the Chrome Web Store and is pending review. In the meantime, feel free to download it and sideload it into Chrome.**
