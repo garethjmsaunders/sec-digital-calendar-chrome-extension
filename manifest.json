@@ -10,7 +10,7 @@
             "64": "icons/64.png",
             "128": "icons/128.png"
         },
-        "default_title": "SEC Digital Calendar and Lectionary",   // shown in tooltip
+        "default_title": "SEC Digital Calendar and Lectionary",
         "default_popup": "popup.html"
     },
     "author": "Gareth J M Saunders",
