@@ -10,9 +10,15 @@ The button opens the full website in mobile-view in a small window, so you can a
 
 Want to move everything to a full tab? Right-click a link and select 'Open link in new tab'.
 
-## Pending Review at the Chrome Web Store
+## Chrome Web Store
 
-**This extension has been submitted to the Chrome Web Store and is pending review. In the meantime, feel free to download it and sideload it into Chrome.**
+Install this extension via the Chrome Web Store:
+
+[SEC Digital Calendar and Lectionary](https://chromewebstore.google.com/detail/sec-digital-calendar-and/ldnfoojlojcjfkgaiimnhmnmdbnmehai)
+
+## Manual install via Developer mode
+
+Feel free to download it and sideload it into Chrome.
 
 1. Download the files from this repo and unzip them to a folder on your computer.
 2. In Chrome go to settings (...) > More tools > Extensions.
